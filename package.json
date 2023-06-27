@@ -16,9 +16,11 @@
   "dependencies": {
     "@remotion/cli": "3.3.101",
     "@remotion/tailwind": "3.3.101",
+    "clsx": "^1.2.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "remotion": "3.3.101"
+    "remotion": "3.3.101",
+    "tailwind-merge": "^1.13.2"
   },
   "devDependencies": {
     "@remotion/eslint-config": "3.3.101",
