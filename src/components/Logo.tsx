@@ -6,6 +6,7 @@ export function Logo() {
 			width="1500"
 			height="204"
 			viewBox="0 0 1000 136"
+			className="w-[70%]"
 		>
 			<g transform="matrix(1,0,0,1,-0.6060606060606233,-0.2208799368481209)">
 				<svg

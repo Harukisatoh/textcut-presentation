@@ -4,6 +4,7 @@ import {
 	ScreenshotOne,
 	ScreenshotThree,
 	ScreenshotTwo,
+	SmallPromoTile,
 } from './Composition';
 import './style.css';
 
@@ -33,6 +34,12 @@ export const RemotionRoot: React.FC = () => {
 				component={ScreenshotFour}
 				width={2560}
 				height={1600}
+			/>
+			<Still
+				id="SmallPromoTile"
+				component={SmallPromoTile}
+				width={440}
+				height={280}
 			/>
 		</>
 	);

@@ -56,3 +56,11 @@ export const ScreenshotFour = () => {
 		</AbsoluteFill>
 	);
 };
+
+export const SmallPromoTile = () => {
+	return (
+		<AbsoluteFill className="bg-white flex justify-center items-center">
+			<Logo />
+		</AbsoluteFill>
+	);
+};
